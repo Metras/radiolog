@@ -1,0 +1,1 @@
+RadioLog is a logging and reporting application that allows radio station personnel to log in and enter transmitter entries, or EAS events, or discrepancy reports.
